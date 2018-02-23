@@ -494,6 +494,6 @@ Solo en el área de "replenishment":
 - Entre otras...  
 
 ---
-title: Inventario Fantasma
+title: Big Data Analytics - Inventairo Fantasma
 subtitle: Q&A
 class: segue dataday nobackground
