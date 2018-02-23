@@ -1,29 +1,11 @@
 title: Agenda
 
-- Bio
 - Inventario Fantasma:
 	- Un tipo de Out-Of-Stock (OOS)
 	- Desde el punto de vista del Productor
 	- Desde el punto de vista del Retailer
 	- Analytics!
 - Q&A
-
----
-
-title: Bio
-subtitle: "Street Cred"
-
-- Ing. Mecánico Administrador - Tec de Monterrey
-- M. Manufactura, Supply Chain y Operaciones - McGill University
-- Más de 9 años de experiencia en Supply Chain y Analytics en:
-	- Retail y CPGs
-	- Distribución de Electrónicos
-	- Industria Aeroespacial
-	- Industria Automotriz
-	- Manufactura
-- Sonorense (hasta a -30ºC)
-
-<aside class="note"> <section> <img class="img-responsive" src="images/dataday/carniasada.jpg" alt="OOS Root Cause"></section></aside>
 
 ---
 title: Inventario Fantasma
@@ -50,7 +32,7 @@ build_lists: true
 title: OOS
 subtitle: Desde el punto de vista del consumidor
 
-<div class="container-fluid"> 
+<div class="container-fluid">
 	<div class="col-md-5">
 		<img class="img-responsive" src="images/dataday/root_cause_oos.png" alt="OOS Root Cause">
 	</div>
@@ -120,7 +102,7 @@ build_lists: true
 title: Inventario Fantasma
 subtitle: El círculo vicioso...
 
-<div class="container-fluid"> 
+<div class="container-fluid">
 	<div class="col-md-8 col-md-offset-2">
 		<img class="img-responsive" src="images/dataday/vensim.png" alt="SD">
 	</div>
@@ -153,7 +135,7 @@ class: segue dataday nobackground
 title: Inventario Fantasma
 subtitle: Un caso inventado...
 
-<div class="container-fluid"> 
+<div class="container-fluid">
 	<div class="col-md-6">
 	<h3 class="text-center">Cerveza Artesanal "CHHHeve"</h3>
 	<h4 class="text-center">Producida en Hermosillo, Sonora para el mundo</h4>
@@ -231,7 +213,7 @@ subtitle: Un caso inventado...
 </section></aside>
 
 ---
-title: De la tierra a la tienda... 
+title: De la tierra a la tienda...
 subtitle: ¿Qué pasta antes de que puedas comprar algo?
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
@@ -351,110 +333,110 @@ subtitle: ¿Los problemas del productor a la <sup>n</sup> potencia?
 		<div class="row">
 			<div class="col-md-1">
 				<font size="4"><i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i></font>
-				<i class="fa fa-arrow-down faa-float animated"></i> 
+				<i class="fa fa-arrow-down faa-float animated"></i>
 				<i class="fa fa-2x fa-fw">&nbsp;</i>
-				<i class="fa fa-arrow-down faa-float animated"></i> 
-				<i class="fa fa-shopping-cart fa-2x"></i> 
-				<i class="fa fa-arrow-down faa-float animated"></i> 
+				<i class="fa fa-arrow-down faa-float animated"></i>
+				<i class="fa fa-shopping-cart fa-2x"></i>
+				<i class="fa fa-arrow-down faa-float animated"></i>
 				<i class="fa fa-home"></i><i class="fa fa-home"></i><i class="fa fa-home"></i><i class="fa fa-home"></i>
 			</div>
 			<div class="col-md-1">
 				<font size="4"><i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i></font>
-				<i class="fa fa-arrow-down faa-float animated"></i> 
+				<i class="fa fa-arrow-down faa-float animated"></i>
 				<i class="fa fa-2x fa-fw">&nbsp;</i>
-				<i class="fa fa-arrow-down faa-float animated"></i> 
-				<i class="fa fa-shopping-cart fa-2x"></i> 
-				<i class="fa fa-arrow-down faa-float animated"></i> 
+				<i class="fa fa-arrow-down faa-float animated"></i>
+				<i class="fa fa-shopping-cart fa-2x"></i>
+				<i class="fa fa-arrow-down faa-float animated"></i>
 				<i class="fa fa-home"></i><i class="fa fa-home"></i><i class="fa fa-home"></i><i class="fa fa-home"></i>
 			</div>
 			<div class="col-md-1">
 				<font size="4"><i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i></font>
-				<i class="fa fa-arrow-down faa-float animated"></i> 
-				<i class="fa fa-truck fa-2x fa-flip-horizontal"></i> 
-				<i class="fa fa-arrow-down faa-float animated"></i> 
-				<i class="fa fa-shopping-cart fa-2x"></i> 
-				<i class="fa fa-arrow-down faa-float animated"></i> 
+				<i class="fa fa-arrow-down faa-float animated"></i>
+				<i class="fa fa-truck fa-2x fa-flip-horizontal"></i>
+				<i class="fa fa-arrow-down faa-float animated"></i>
+				<i class="fa fa-shopping-cart fa-2x"></i>
+				<i class="fa fa-arrow-down faa-float animated"></i>
 				<i class="fa fa-home"></i><i class="fa fa-home"></i><i class="fa fa-home"></i><i class="fa fa-home"></i>
 			</div>
 			<div class="col-md-1">
 				<font size="4"><i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i></font>
-				<i class="fa fa-arrow-down faa-float animated"></i> 
+				<i class="fa fa-arrow-down faa-float animated"></i>
 				<i class="fa fa-2x fa-fw">&nbsp;</i>
-				<i class="fa fa-arrow-down faa-float animated"></i> 
-				<i class="fa fa-shopping-cart fa-2x"></i> 
-				<i class="fa fa-arrow-down faa-float animated"></i> 
+				<i class="fa fa-arrow-down faa-float animated"></i>
+				<i class="fa fa-shopping-cart fa-2x"></i>
+				<i class="fa fa-arrow-down faa-float animated"></i>
 				<i class="fa fa-home"></i><i class="fa fa-home"></i><i class="fa fa-home"></i><i class="fa fa-home"></i>
 			</div>
 			<div class="col-md-1">
 				<font size="4"><i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i></font>
-				<i class="fa fa-arrow-down faa-float animated"></i> 
+				<i class="fa fa-arrow-down faa-float animated"></i>
 				<i class="fa fa-2x fa-fw">&nbsp;</i>
-				<i class="fa fa-arrow-down faa-float animated"></i> 
-				<i class="fa fa-shopping-cart fa-2x"></i> 
-				<i class="fa fa-arrow-down faa-float animated"></i> 
+				<i class="fa fa-arrow-down faa-float animated"></i>
+				<i class="fa fa-shopping-cart fa-2x"></i>
+				<i class="fa fa-arrow-down faa-float animated"></i>
 				<i class="fa fa-home"></i><i class="fa fa-home"></i><i class="fa fa-home"></i><i class="fa fa-home"></i>
 			</div>
 			<div class="col-md-1">
 				<font size="4"><i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i></font>
-				<i class="fa fa-arrow-down faa-float animated"></i> 
-				<i class="fa fa-truck fa-2x fa-flip-horizontal"></i> 
-				<i class="fa fa-arrow-down faa-float animated"></i> 
-				<i class="fa fa-shopping-cart fa-2x"></i> 
-				<i class="fa fa-arrow-down faa-float animated"></i> 
+				<i class="fa fa-arrow-down faa-float animated"></i>
+				<i class="fa fa-truck fa-2x fa-flip-horizontal"></i>
+				<i class="fa fa-arrow-down faa-float animated"></i>
+				<i class="fa fa-shopping-cart fa-2x"></i>
+				<i class="fa fa-arrow-down faa-float animated"></i>
 				<i class="fa fa-home"></i><i class="fa fa-home"></i><i class="fa fa-home"></i><i class="fa fa-home"></i>
 			</div>
 			<div class="col-md-1">
 				<font size="4"><i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i></font>
-				<i class="fa fa-arrow-down faa-float animated"></i> 
+				<i class="fa fa-arrow-down faa-float animated"></i>
 				<i class="fa fa-2x fa-fw">&nbsp;</i>
-				<i class="fa fa-arrow-down faa-float animated"></i> 
-				<i class="fa fa-shopping-cart fa-2x"></i> 
-				<i class="fa fa-arrow-down faa-float animated"></i> 
+				<i class="fa fa-arrow-down faa-float animated"></i>
+				<i class="fa fa-shopping-cart fa-2x"></i>
+				<i class="fa fa-arrow-down faa-float animated"></i>
 				<i class="fa fa-home"></i><i class="fa fa-home"></i><i class="fa fa-home"></i><i class="fa fa-home"></i>
 			</div>
 			<div class="col-md-1">
 				<font size="4"><i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i></font>
-				<i class="fa fa-arrow-down faa-float animated"></i> 
+				<i class="fa fa-arrow-down faa-float animated"></i>
 				<i class="fa fa-2x fa-fw">&nbsp;</i>
-				<i class="fa fa-arrow-down faa-float animated"></i> 
-				<i class="fa fa-shopping-cart fa-2x"></i> 
-				<i class="fa fa-arrow-down faa-float animated"></i> 
+				<i class="fa fa-arrow-down faa-float animated"></i>
+				<i class="fa fa-shopping-cart fa-2x"></i>
+				<i class="fa fa-arrow-down faa-float animated"></i>
 				<i class="fa fa-home"></i><i class="fa fa-home"></i><i class="fa fa-home"></i><i class="fa fa-home"></i>
 			</div>
 			<div class="col-md-1">
 				<font size="4"><i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i></font>
-				<i class="fa fa-arrow-down faa-float animated"></i> 
-				<i class="fa fa-truck fa-2x fa-flip-horizontal"></i> 
-				<i class="fa fa-arrow-down faa-float animated"></i> 
-				<i class="fa fa-shopping-cart fa-2x"></i> 
-				<i class="fa fa-arrow-down faa-float animated"></i> 
+				<i class="fa fa-arrow-down faa-float animated"></i>
+				<i class="fa fa-truck fa-2x fa-flip-horizontal"></i>
+				<i class="fa fa-arrow-down faa-float animated"></i>
+				<i class="fa fa-shopping-cart fa-2x"></i>
+				<i class="fa fa-arrow-down faa-float animated"></i>
 				<i class="fa fa-home"></i><i class="fa fa-home"></i><i class="fa fa-home"></i><i class="fa fa-home"></i>
 			</div>
 			<div class="col-md-1">
 				<font size="4"><i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i></font>
-				<i class="fa fa-arrow-down faa-float animated"></i> 
+				<i class="fa fa-arrow-down faa-float animated"></i>
 				<i class="fa fa-2x fa-fw">&nbsp;</i>
-				<i class="fa fa-arrow-down faa-float animated"></i> 
-				<i class="fa fa-shopping-cart fa-2x"></i> 
-				<i class="fa fa-arrow-down faa-float animated"></i> 
+				<i class="fa fa-arrow-down faa-float animated"></i>
+				<i class="fa fa-shopping-cart fa-2x"></i>
+				<i class="fa fa-arrow-down faa-float animated"></i>
 				<i class="fa fa-home"></i><i class="fa fa-home"></i><i class="fa fa-home"></i><i class="fa fa-home"></i>
 			</div>
 			<div class="col-md-1">
 				<font size="4"><i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i></font>
-				<i class="fa fa-arrow-down faa-float animated"></i> 
+				<i class="fa fa-arrow-down faa-float animated"></i>
 				<i class="fa fa-2x fa-fw">&nbsp;</i>
-				<i class="fa fa-arrow-down faa-float animated"></i> 
-				<i class="fa fa-shopping-cart fa-2x"></i> 
-				<i class="fa fa-arrow-down faa-float animated"></i> 
+				<i class="fa fa-arrow-down faa-float animated"></i>
+				<i class="fa fa-shopping-cart fa-2x"></i>
+				<i class="fa fa-arrow-down faa-float animated"></i>
 				<i class="fa fa-home"></i><i class="fa fa-home"></i><i class="fa fa-home"></i><i class="fa fa-home"></i>
 			</div>
 			<div class="col-md-1">
 				<font size="4"><i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i>&nbsp;<i class="fa fa-industry"></i></font>
-				<i class="fa fa-arrow-down faa-float animated"></i> 
+				<i class="fa fa-arrow-down faa-float animated"></i>
 				<i class="fa fa-2x fa-fw">&nbsp;</i>
-				<i class="fa fa-arrow-down faa-float animated"></i> 
-				<i class="fa fa-shopping-cart fa-2x"></i> 
-				<i class="fa fa-arrow-down faa-float animated"></i> 
+				<i class="fa fa-arrow-down faa-float animated"></i>
+				<i class="fa fa-shopping-cart fa-2x"></i>
+				<i class="fa fa-arrow-down faa-float animated"></i>
 				<i class="fa fa-home"></i><i class="fa fa-home"></i><i class="fa fa-home"></i><i class="fa fa-home"></i>
 			</div>
 		</div>
@@ -515,4 +497,3 @@ Solo en el área de "replenishment":
 title: Inventario Fantasma
 subtitle: Q&A
 class: segue dataday nobackground
-
